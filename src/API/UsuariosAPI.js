@@ -1,7 +1,7 @@
 // let url = 'http://localhost:5000/'; 
 // url += 'usuarios/'; 
 
-const url = 'http://localhost:5000/usuarios/';
+const url = 'https://g1g23be.onrender.com/usuarios/';
 
 export async function listarUsuarios(){
     const res = await fetch(url);

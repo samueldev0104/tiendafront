@@ -1,7 +1,7 @@
 // let url = 'http://localhost:5000/'; 
 // url += 'productos/'; 
 
-const url = 'http://localhost:5000/productos/';
+const url = 'https://g1g23be.onrender.com/productos/';
 
 export async function listarProductos(){
     const res = await fetch(url);

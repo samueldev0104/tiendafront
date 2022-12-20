@@ -1,7 +1,7 @@
 // let url = 'http://localhost:5000/'; 
 // url += 'personas/'; 
 
-const url = 'http://localhost:5000/personas/';
+const url = 'https://g1g23be.onrender.com/personas/';
 
 export async function listarPersonas(){
     const res = await fetch(url);

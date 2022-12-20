@@ -17,6 +17,7 @@ function Navegador() {
         <a href='/'>Home</a>
         <a href='/personas'>Personas</a>
         <a href='/usuarios'>Usuarios</a>
+        <a href='/productos'>Productos</a>
       </nav>
     </details>
   )
